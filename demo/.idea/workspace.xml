@@ -2,9 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654a1014-7daa-4c9b-b26d-e8dbce44688e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/CloneAList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/CompareTwoList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/CopyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/EmptyList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/ExtractPortion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/GetByIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/IncreaseSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/InsertAtFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/IsEmpty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/IteratorProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/JoinToList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/PrintElementWithPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/RemoveIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/ReplaceSecond.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/ReverseElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/SearchElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/ShuffleElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/SortList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/SwapTwoElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/Trim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/com/company/UpdateAtIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/AddAtFirst.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/AddElementAtIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/AppendAtLast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/GetFirstAndLastElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/GetFirstAndLastOccuranceOfElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/IterateAListFromIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayList/linkedlist/IterateListReverse.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +77,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.GetFirstAndLastOccuranceOfElement">
-    <configuration name="AddElementAtIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.AddElementAtIndex" />
+  <component name="RunManager" selected="Application.ReplaceElementInLinkedList">
+    <configuration name="ConvertLinkedListToArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.linkedlist.ConvertLinkedListToArrayList" />
       <module name="ArrayList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="com.company.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFirstAndLastElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.GetFirstAndLastElement" />
+    <configuration name="LinkedListIsEmpty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.linkedlist.LinkedListIsEmpty" />
       <module name="ArrayList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="com.company.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetFirstAndLastOccuranceOfElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.GetFirstAndLastOccuranceOfElement" />
+    <configuration name="ListContainElementOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.linkedlist.ListContainElementOrNot" />
       <module name="ArrayList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="com.company.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateAListFromIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.IterateAListFromIndex" />
+    <configuration name="RemoveAndReturnFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.linkedlist.RemoveAndReturnFirstElement" />
       <module name="ArrayList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="com.company.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IterateListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.IterateListReverse" />
+    <configuration name="ReplaceElementInLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.linkedlist.ReplaceElementInLinkedList" />
       <module name="ArrayList" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="com.company.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GetFirstAndLastOccuranceOfElement" />
-        <item itemvalue="Application.GetFirstAndLastElement" />
-        <item itemvalue="Application.AddElementAtIndex" />
-        <item itemvalue="Application.IterateListReverse" />
-        <item itemvalue="Application.IterateAListFromIndex" />
+        <item itemvalue="Application.ReplaceElementInLinkedList" />
+        <item itemvalue="Application.LinkedListIsEmpty" />
+        <item itemvalue="Application.ConvertLinkedListToArrayList" />
+        <item itemvalue="Application.ListContainElementOrNot" />
+        <item itemvalue="Application.RemoveAndReturnFirstElement" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +177,7 @@
       <updated>1579590139825</updated>
       <workItem from="1579590146737" duration="11311000" />
       <workItem from="1579683864758" duration="5762000" />
-      <workItem from="1579691596697" duration="4758000" />
+      <workItem from="1579691596697" duration="7185000" />
     </task>
     <servers />
   </component>
@@ -162,22 +189,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579701655640" />
-    <state width="1323" height="111" key="GridCell.Tab.0.bottom" timestamp="1579707714622">
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom" timestamp="1579715173007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579707714622" />
-    <state width="1323" height="111" key="GridCell.Tab.0.center" timestamp="1579707714622">
+    <state width="1323" height="111" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579715173007" />
+    <state width="1323" height="111" key="GridCell.Tab.0.center" timestamp="1579715173007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579707714622" />
-    <state width="1323" height="111" key="GridCell.Tab.0.left" timestamp="1579707714622">
+    <state width="1323" height="111" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579715173007" />
+    <state width="1323" height="111" key="GridCell.Tab.0.left" timestamp="1579715173007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579707714622" />
-    <state width="1323" height="111" key="GridCell.Tab.0.right" timestamp="1579707714622">
+    <state width="1323" height="111" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579715173007" />
+    <state width="1323" height="111" key="GridCell.Tab.0.right" timestamp="1579715173007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="111" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579707714622" />
+    <state width="1323" height="111" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579715173007" />
     <state x="186" y="10" key="SettingsEditor" timestamp="1579701855666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
